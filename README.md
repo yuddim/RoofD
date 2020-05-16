@@ -1,12 +1,18 @@
 # RoofD
+
 RoofD is dataset for flat roof defect segmentation
 
 ## Details
 
 RoofD dataset contains 6400 color image pairs (aerial image and segmentation mask) with size of 1024x576 divided on two parts: train (5184 images) and test (1216 images).
 
-Segment catergories:
+![RoofD fragment](https://github.com/yuddim/RoofD/blob/master/resources/Figures%20-%20RoofD.png)
+
+Roof defect segment catergories:
+
 “hollows” (a), “swellings” (b), “folds” (c), “patches” (d) and “breaks” (e)
+
+![Roof defect segment catergories](https://github.com/yuddim/RoofD/blob/master/resources/Figures%20-%20Defects.png)
 
 Details of RoofD Dataset:
 | Segment category | Train ID | Color	| Pixels (train) | Pixels (test) 	| Images (train) | Images (test)  |
