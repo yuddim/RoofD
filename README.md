@@ -26,6 +26,6 @@ Details of RoofD Dataset:
 
 ## Download
 
-Download RoofD parts:
-- [RoofD train (3.7 GB, 5184 image pairs)](https://drive.google.com/open?id=1l5hWzXC7McRox6Z_RgYgLMGWRK5TJSDa)
-- [RoofD test (0.9 GB, 1216 image pairs) ](https://drive.google.com/open?id=1q_G5v6S41ZicJIU-yw1Sv6MCWS3mNWdv)
+Download [RoofD archive (5.7 GB)](https://disk.yandex.ru/d/gJeFS6WIRlr0fg) which contains:
+- RoofD train sample (3.7 GB, 5184 image pairs)
+- RoofD test sample (0.9 GB, 1216 image pairs) 
